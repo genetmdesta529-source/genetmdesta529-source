@@ -48,32 +48,8 @@ A responsive landing page built with HTML and CSS.
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Machine Learning and Artificial Intelligence
+- Data Structures & Algorithm
 - Backend Web Development
 - Problem Solving with Python
 
 ---
-
-## 📫 Connect With Me
-
-- 📧 Email: genetmdesta529@gmail.com
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 🐙 [GitHub](https://github.com/genetmdesta529-source)
-
----
-
-⭐ Thanks for visiting my profile!
-**genetmdesta529-source/genetmdesta529-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
